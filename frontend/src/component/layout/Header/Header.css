@@ -1,0 +1,45 @@
+.navbarIcons
+{
+    /* height: 15vh; */
+    /* width: 100%; */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: flex-end; */
+    /* flex-direction: row; */
+    /* margin: 2vmax 2vmax; */
+    /* color: black; */
+    /* font-size: 3vmax; */
+    transition: 0.5s ease;
+    position: fixed;
+    right:3vmax ;
+    top:3vmax
+
+}
+
+.navbarIcons i 
+{
+    font-size: 2.7vmax;
+    color:black;
+    margin-right:1.5vmax;
+}
+
+/* .navbarIcons :hover */
+/* {
+    color: tomato;
+    transform: scale(1.1);
+} */
+
+.speedDial
+{
+    position: fixed;
+    top:3vmax;
+    right: 15vmax;
+}
+
+.speedDialIcon
+{
+    height: 56px;
+    width: 56px;
+    border-radius: 100% ;
+}
+
